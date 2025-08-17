@@ -1,6 +1,6 @@
 # Brainwave_Matrix_Intern-
 Task 2
-# Task 10 – Sentiment Analysis Project
+# Task 2 – Sentiment Analysis Project
 
 ## 📌 Overview
 This project is part of **Brainwave Matrix Solutions Internship (Task 10)**.  
